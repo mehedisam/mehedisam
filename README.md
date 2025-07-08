@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehedisam" alt="mehedisam" /></a> </p>
 
-- 🔭 I’m currently working on [Chat-App](https://github.com/mehedisam/Chat-App)
+- 🔭 I’m currently working on [IMDB-Clone](https://github.com/mehedisam/IMDB_Clone)
 
-- 🌱 I’m currently learning **Flutter and Django**
+- 🌱 I’m currently learning **Django and Django REST Framework**
 
 - 📫 How to reach me **mehedisam0@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KLo2pglh44ahYuaT_wUu5c37Wvis---9/view?usp=sharingph](https://drive.google.com/file/d/1KLo2pglh44ahYuaT_wUu5c37Wvis---9/view?usp=sharingph)
+- 📄 Here is my Resume [https://drive.google.com/file/d/1KLo2pglh44ahYuaT_wUu5c37Wvis---9/view?usp=sharingph](https://drive.google.com/file/d/1KLo2pglh44ahYuaT_wUu5c37Wvis---9/view?usp=sharingph)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
